@@ -1,3 +1,6 @@
+// Helps to create complex objects step by step instead of using a constructor with too many parameters.
+
+
 package CreationalPattern;
 
 // Product class

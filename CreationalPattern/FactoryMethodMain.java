@@ -1,3 +1,6 @@
+// Instead of creating objects directly with new, the Factory Method provides a method to create objects.
+// This lets you decide the object type at runtime without changing the main code.
+
 package CreationalPattern;
 
 // Step 1: Create an interface

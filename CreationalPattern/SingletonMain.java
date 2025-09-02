@@ -1,3 +1,6 @@
+// Ensures that only one object of a class is created in the whole program, and it provides a global access point to it.
+
+
 package CreationalPattern;
 
 class Singleton {
